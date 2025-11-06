@@ -1,0 +1,10 @@
+# Minimal requirements for BeatBuddy Streamlit app
+# Adjust versions if you need newer/older compatible releases
+streamlit>=1.18,<3.0
+spotipy>=2.22,<3.0
+pandas>=1.5,<3.0
+numpy>=1.24
+requests>=2.28
+python-dotenv>=0.21
+# Optional, useful for local development/testing
+pytest>=7.0
